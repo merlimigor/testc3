@@ -1,0 +1,29 @@
+.header {
+  background-color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.logo {
+  height: 80px;
+  margin-bottom: 10px;
+}
+
+.header h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.header h1 span:first-child {
+  color: black;
+}
+
+.header h1 .cast {
+  color: #2da6aa;
+}
+
+.location {
+  color: #007b8a;
+  text-transform: uppercase;
+  font-weight: bold;
+}
